@@ -23,6 +23,8 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+Karinov Media Network 
+==================
 - https://karinov.co.id - jasa digital marketing indonesia
 - https://www.tnol.co.id - forum modifikasi otomotif indonesia
 - https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
