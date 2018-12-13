@@ -1,2 +1,0 @@
-# marketingid
-Marketing Indonesia
