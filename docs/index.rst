@@ -3,60 +3,48 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
-==================================================
-
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
-
-
-
-Indices and tables
+Situs Modifikasi Otomotif Mobil & Motor Indonesia
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Situs `otomotif dan modifikasi <https://www.blackxperience.com/>`_ dengan informasi terkini seputar dunia modifikasi mobil dan motor, perkembangan teknologi, lifestyle, dan inovasi – Blackauto, Blackmods, Blackcinema, Blackinnovation. Dunia modifikasi tidak mengenal batasan genre maupun umur, dan dunia ini memang sangat menarik karena menjadi ajang bekreasi untuk mengekspresikan diri. 
 
-Karinov Media Network 
+Kata kunci link utama Blackxperience.com
 ==================
-- https://karinov.co.id - jasa digital marketing indonesia
-- https://www.tnol.co.id - forum modifikasi otomotif indonesia
-- https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
-- https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
-- https://www.m-edukasi.web.id - portal bisnis online dan umkm
-- https://www.pelita.or.id - harian pelita portal informasi terkini
+
+Modifikasi mobil, Modifikasi Motor, Yamaha, Honda, Toyota, Suzuki, Mitsubishi, foto modifikasi mobil, foto modifikasi motor, game modifikasi, modifikasi agya, xpander, modifikasi r15, modifikasi innova.
+
+Portal Modifikasi Otomotif Rujukan Indonesia
+==================
+
+Portal `modifikasi otomotif indonesia <https://www.blackxperience.com/blackauto/automods>`_ terbaru dan terlengkap dilengkapi tips dan trik dalam modifikasi mobil dan motor berbagai merek. Temukan asyiknya hobi modifikasi dan istilah-istilah baru hanya di Blackxperience.com
+
+Tips Modifikasi bagi Pemula
+==================
+
+`tips modifikasi & otomotif <https://www.blackxperience.com/blackauto/autotips>`_ - Sudah bosan dengan tampilan mobil anda yang begitu begitu saja? Bukan hanya pemiliknya saja yang harus tampil modis, namun mobil yang menjadi tunggangan sehari-hari pun harus tampil semenawan mungkin. Cara modifikasi bagi pemula memang berbeda dan butuh skill tersendiri, apalagi jika baru pertama kali.
+
+Banyak faktor yang membuat pemula enggan untuk memodifikasi mobilnya, salah satunya takut jika hasilnya tidak sesuai dengan keinginan. Nah, berikut cara modifikasi bagi pemula yang bisa dilakukan.
+
+1. Tentukan Tema
+==================
+
+Sebelum memulai melakukan modifikasi, terlebih dahulu pilihlah tema yang sesuai dengan keinginan. Hal ini penting dilakukan agar tema yang dihasilkan tidak bertabrakan satu dengan lainnya. Selain itu untuk mengetahui estimasi biaya yang dikeluarkan nantinya.
+
+2. Perkirakan Biaya Dan Bengkel Yang Dituju
+==================
+
+Setelah menentukan tema, langkah selanjutnya cara modifikasi bagi pemula yaitu buatlah perkiraan biayanya. Lakukan riset kecil kecilan untuk menentukan apa saja yang akan di ganti, dan berapa uang yang harus dikeluarkan. Jika belum mahir modif sendiri, tentukan pula bengkel mana yang akan dituju untuk membantu memodif mobil. Konsultasikan tentang tema yang sudah dipilih.
+
+3. Siapkan daftar Komponen Yang Diperlukan
+==================
+
+Car modifikasi bagi pemula selanjutnya adalah siapkan apa saja daftar komponen yang akan dipakai. List semuanya, apabila tidak tersedia di bengkel tujuan bisa memesan ke toko lainnya. Hal ini wajib dilakukan agar proses modifikasi sesuai dengan yang diharapkan.
+
+Kata kunci utama
+==================
+
+- `review mobil & motor <https://www.blackxperience.com/blackauto/autoreviews>`_, Modifikasi mobil, Modifikasi Motor, Yamaha, Honda, Toyota, Suzuki, Mitsubishi, foto modifikasi mobil, foto modifikasi motor, game modifikasi, modifikasi agya, xpander, modifikasi r15, modifikasi innova, foto modifikasi keren.
 
 Tech News Online
 ==================
-Portal teknologi internet dan internet marketing. Fokus mengulas seputar dunia startup, perkembangan teknologi informasi, serta dunia bisnis online.
-
-M-edukasi.web.id
-==================
-Mengupas tuntas berbagai hal terkait bisnis di era digital. Fokus dalam topik pengembangan startup di Indonesia, tips & trik blogging, serta SEO.
-
-Karinov Wiki
-==================
-Membahas berbagai problem dan pertanyaan yang sering muncul di internet. Karinov Wiki menawarkan Anda berbagai cara paling mudah dalam menyelesaikan masalah.
-
-Karinov.co.id
-==================
-Your next digital partner. Kami membantu bisnis Anda berkembang di era digital lewat layanan website dan optimasi SEO. Powered by Google Cloud Platform. Hire Us!
-
-Klub Studi
-==================
-Klub Studi Mahasiswa Bandung Hadir untuk memenuhi resources yang banyak dibutuhkan mahasiswa secara umum baik dari sisi keilmuan, aktivitas organisasi, serta materi lainnya.
-
-Pusat informasi SNMPTN
-==================
-SBMPTN serta beasiswa secara online. Tersedia info lengkap beserta tips mendapatkan beasiswa dalam dan luar negeri.
-Wikia Alfa Kumpulan Informasi Terkini, membahas seputar dunia teknologi, otomotif, pemasaran bisnis serta informasi menarik lainnya hanya di Wikia Alfa ITB Blogs.
-
-DMO.or.id
-==================
-Portal digital marketing rujukan untuk UKM dan bisnis online. Membahas berbagai tips dan trik seputar dunia pemasaran (marketing), SEO, serta trend terkini di dunia digital.
+`Portal modifikasi otomotif <https://www.blackxperience.com/blackauto/automods>`_ dan teknologi terkini di Indonesia. Fokus mengulas seputar dunia startup, perkembangan teknologi informasi, serta dunia bisnis online.
