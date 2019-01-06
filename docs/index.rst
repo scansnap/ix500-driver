@@ -3,15 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Situs Modifikasi Otomotif Mobil & Motor Indonesia
+Jasa Website dan SEO berbasis Infrastruktur Google ‒ Karinov.co.id
 ==================
 
-Situs `otomotif dan modifikasi <https://www.blackxperience.com/>`_ dengan informasi terkini seputar dunia modifikasi mobil dan motor, perkembangan teknologi, lifestyle, dan inovasi – Blackauto, Blackmods, Blackcinema, Blackinnovation. Dunia modifikasi tidak mengenal batasan genre maupun umur, dan dunia ini memang sangat menarik karena menjadi ajang bekreasi untuk mengekspresikan diri. 
+`Karinov.co.id<https://www.alexa.com/siteinfo/karinov.co.id>`_ ‒ Your next digital partner. Dunia terus bergerak, meninggalkan mereka yang tidak sepakat. Kami percaya bahwa perubahan dalam bisnis adalah satu hal yang niscaya. Karinov.co.id hadir untuk menjadi tempat bertanya seputar ini dan harus ada jawabnya. Kami membantu bisnis Anda berkembang di era digital lewat layanan website dan optimasi SEO. Powered by Google Cloud Platform. Hire Us!
 
-Kata kunci link utama Blackxperience.com
+`Internet Marketing Indonesia<https://karinov.co.id>`_ | `Jasa Pembuatan Web WordPress<https://karinov.co.id/jasa-website/>`_ | `Jasa SEO<https://karinov.co.id/jasa-seo/>`_
+
+
+Forum Modifikasi Otomotif | TNOL.co.id
 ==================
 
-Modifikasi mobil, Modifikasi Motor, Yamaha, Honda, Toyota, Suzuki, Mitsubishi, foto modifikasi mobil, foto modifikasi motor, game modifikasi, modifikasi agya, xpander, modifikasi r15, modifikasi innova.
+`Forum modifikasi otomotif Indonesia<https://www.alexa.com/siteinfo/tnol.co.id>`_ ‒ Fokus mengulas seputar dunia otomotif, mobil dan motor, serta perkembangan dunia modifikasi terbaru. Berisi kumpulan tips serta foto keren mobil dan motor kustom dari berbagai merk ternama seperti Honda, Toyota, Mercedes benz, dan lainnya.
+
+`Forum Modifikasi Otomotif<https://www.tnol.co.id>`_ | `Modifikasi Mobil<https://www.tnol.co.id/modifikasi-mobil/>`_ | `Modifikasi Motor<https://www.tnol.co.id/modifikasi-motor/>`_
 
 Portal Modifikasi Otomotif Rujukan Indonesia
 ==================
@@ -23,30 +28,5 @@ Tips Modifikasi bagi Pemula
 
 `tips modifikasi & otomotif <https://www.blackxperience.com/blackauto/autotips>`_ - Sudah bosan dengan tampilan mobil anda yang begitu begitu saja? Bukan hanya pemiliknya saja yang harus tampil modis, namun mobil yang menjadi tunggangan sehari-hari pun harus tampil semenawan mungkin. Cara modifikasi bagi pemula memang berbeda dan butuh skill tersendiri, apalagi jika baru pertama kali.
 
-Banyak faktor yang membuat pemula enggan untuk memodifikasi mobilnya, salah satunya takut jika hasilnya tidak sesuai dengan keinginan. Nah, berikut cara modifikasi bagi pemula yang bisa dilakukan.
-
-1. Tentukan Tema
-==================
-
-Sebelum memulai melakukan modifikasi, terlebih dahulu pilihlah tema yang sesuai dengan keinginan. Hal ini penting dilakukan agar tema yang dihasilkan tidak bertabrakan satu dengan lainnya. Selain itu untuk mengetahui estimasi biaya yang dikeluarkan nantinya.
-
-2. Perkirakan Biaya Dan Bengkel Yang Dituju
-==================
-
-Setelah menentukan tema, langkah selanjutnya cara modifikasi bagi pemula yaitu buatlah perkiraan biayanya. Lakukan riset kecil kecilan untuk menentukan apa saja yang akan di ganti, dan berapa uang yang harus dikeluarkan. Jika belum mahir modif sendiri, tentukan pula bengkel mana yang akan dituju untuk membantu memodif mobil. Konsultasikan tentang tema yang sudah dipilih.
-
-3. Siapkan daftar Komponen Yang Diperlukan
-==================
-
-Car modifikasi bagi pemula selanjutnya adalah siapkan apa saja daftar komponen yang akan dipakai. List semuanya, apabila tidak tersedia di bengkel tujuan bisa memesan ke toko lainnya. Hal ini wajib dilakukan agar proses modifikasi sesuai dengan yang diharapkan.
-
-Kata kunci utama
-==================
-
-- `review mobil & motor <https://www.blackxperience.com/blackauto/autoreviews>`_, Modifikasi mobil, Modifikasi Motor, Yamaha, Honda, Toyota, Suzuki, Mitsubishi, foto modifikasi mobil, foto modifikasi motor, game modifikasi, modifikasi agya, xpander, modifikasi r15, modifikasi innova, foto modifikasi keren.
-
-Tech News Online
-==================
-`Portal modifikasi otomotif <https://www.blackxperience.com/blackauto/automods>`_ dan teknologi terkini di Indonesia. Fokus mengulas seputar dunia startup, perkembangan teknologi informasi, serta dunia bisnis online.
 
 - `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
