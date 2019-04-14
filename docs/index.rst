@@ -28,5 +28,10 @@ Tips Modifikasi bagi Pemula
 
 `Tips modifikasi & otomotif <https://www.blackxperience.com/blackauto/autotips>`_ - Sudah bosan dengan tampilan mobil anda yang begitu begitu saja? Bukan hanya pemiliknya saja yang harus tampil modis, namun mobil yang menjadi tunggangan sehari-hari pun harus tampil semenawan mungkin. Cara modifikasi bagi pemula memang berbeda dan butuh skill tersendiri, apalagi jika baru pertama kali.
 
+Navigator Online Indonesia
+==================
+
+`Navigator panduan cara Indonesia <https://www.navi.id>`_ - Kumpulan artikel panduan cara berbahasa Indonesia dari berbagai bidang mulai dari bisnis, keluarga hingga pendidikan. 
+
 
 - `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
