@@ -33,5 +33,5 @@ Navigator Online Indonesia
 
 `Navigator panduan cara Indonesia <https://www.navi.id>`_ - Kumpulan artikel panduan cara berbahasa Indonesia dari berbagai bidang mulai dari bisnis, keluarga hingga pendidikan. 
 
-
+- `Navi profile<http://jobs.millennium.edu/user-44025.html>`_
 - `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
